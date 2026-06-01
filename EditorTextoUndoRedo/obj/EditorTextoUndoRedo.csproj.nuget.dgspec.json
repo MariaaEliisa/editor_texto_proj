@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\teres\\OneDrive\\Área de Trabalho\\EditorTextoUndoRedo\\EditorTextoUndoRedo\\EditorTextoUndoRedo.csproj": {}
+    "c:\\projetos\\EditorTextoUndoRedo\\EditorTextoUndoRedo\\EditorTextoUndoRedo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\teres\\OneDrive\\Área de Trabalho\\EditorTextoUndoRedo\\EditorTextoUndoRedo\\EditorTextoUndoRedo.csproj": {
+    "c:\\projetos\\EditorTextoUndoRedo\\EditorTextoUndoRedo\\EditorTextoUndoRedo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\teres\\OneDrive\\Área de Trabalho\\EditorTextoUndoRedo\\EditorTextoUndoRedo\\EditorTextoUndoRedo.csproj",
+        "projectUniqueName": "c:\\projetos\\EditorTextoUndoRedo\\EditorTextoUndoRedo\\EditorTextoUndoRedo.csproj",
         "projectName": "EditorTextoUndoRedo",
-        "projectPath": "C:\\Users\\teres\\OneDrive\\Área de Trabalho\\EditorTextoUndoRedo\\EditorTextoUndoRedo\\EditorTextoUndoRedo.csproj",
+        "projectPath": "c:\\projetos\\EditorTextoUndoRedo\\EditorTextoUndoRedo\\EditorTextoUndoRedo.csproj",
         "packagesPath": "C:\\Users\\teres\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\teres\\OneDrive\\Área de Trabalho\\EditorTextoUndoRedo\\EditorTextoUndoRedo\\obj\\",
+        "outputPath": "c:\\projetos\\EditorTextoUndoRedo\\EditorTextoUndoRedo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\teres\\AppData\\Roaming\\NuGet\\NuGet.Config",

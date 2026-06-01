@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EditorTextoUndoRedo
-build_property.ProjectDir = C:\Users\teres\OneDrive\Área de Trabalho\EditorTextoUndoRedo\EditorTextoUndoRedo\
+build_property.ProjectDir = c:\projetos\EditorTextoUndoRedo\EditorTextoUndoRedo\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EditorTextoUndoRedo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7a3a03639e33c4be5473e596164f09179c9fe8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("EditorTextoUndoRedo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EditorTextoUndoRedo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
