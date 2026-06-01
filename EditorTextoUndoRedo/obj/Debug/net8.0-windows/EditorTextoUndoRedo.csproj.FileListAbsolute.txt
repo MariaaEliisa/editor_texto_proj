@@ -1,0 +1,16 @@
+C:\Users\teres\OneDrive\Área de Trabalho\EditorTextoUndoRedo\EditorTextoUndoRedo\bin\Debug\net8.0-windows\EditorTextoUndoRedo.exe
+C:\Users\teres\OneDrive\Área de Trabalho\EditorTextoUndoRedo\EditorTextoUndoRedo\bin\Debug\net8.0-windows\EditorTextoUndoRedo.deps.json
+C:\Users\teres\OneDrive\Área de Trabalho\EditorTextoUndoRedo\EditorTextoUndoRedo\bin\Debug\net8.0-windows\EditorTextoUndoRedo.runtimeconfig.json
+C:\Users\teres\OneDrive\Área de Trabalho\EditorTextoUndoRedo\EditorTextoUndoRedo\bin\Debug\net8.0-windows\EditorTextoUndoRedo.dll
+C:\Users\teres\OneDrive\Área de Trabalho\EditorTextoUndoRedo\EditorTextoUndoRedo\bin\Debug\net8.0-windows\EditorTextoUndoRedo.pdb
+C:\Users\teres\OneDrive\Área de Trabalho\EditorTextoUndoRedo\EditorTextoUndoRedo\obj\Debug\net8.0-windows\EditorTextoUndoRedo.Form1.resources
+C:\Users\teres\OneDrive\Área de Trabalho\EditorTextoUndoRedo\EditorTextoUndoRedo\obj\Debug\net8.0-windows\EditorTextoUndoRedo.csproj.GenerateResource.cache
+C:\Users\teres\OneDrive\Área de Trabalho\EditorTextoUndoRedo\EditorTextoUndoRedo\obj\Debug\net8.0-windows\EditorTextoUndoRedo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teres\OneDrive\Área de Trabalho\EditorTextoUndoRedo\EditorTextoUndoRedo\obj\Debug\net8.0-windows\EditorTextoUndoRedo.AssemblyInfoInputs.cache
+C:\Users\teres\OneDrive\Área de Trabalho\EditorTextoUndoRedo\EditorTextoUndoRedo\obj\Debug\net8.0-windows\EditorTextoUndoRedo.AssemblyInfo.cs
+C:\Users\teres\OneDrive\Área de Trabalho\EditorTextoUndoRedo\EditorTextoUndoRedo\obj\Debug\net8.0-windows\EditorTextoUndoRedo.csproj.CoreCompileInputs.cache
+C:\Users\teres\OneDrive\Área de Trabalho\EditorTextoUndoRedo\EditorTextoUndoRedo\obj\Debug\net8.0-windows\EditorTextoUndoRedo.dll
+C:\Users\teres\OneDrive\Área de Trabalho\EditorTextoUndoRedo\EditorTextoUndoRedo\obj\Debug\net8.0-windows\refint\EditorTextoUndoRedo.dll
+C:\Users\teres\OneDrive\Área de Trabalho\EditorTextoUndoRedo\EditorTextoUndoRedo\obj\Debug\net8.0-windows\EditorTextoUndoRedo.pdb
+C:\Users\teres\OneDrive\Área de Trabalho\EditorTextoUndoRedo\EditorTextoUndoRedo\obj\Debug\net8.0-windows\EditorTextoUndoRedo.genruntimeconfig.cache
+C:\Users\teres\OneDrive\Área de Trabalho\EditorTextoUndoRedo\EditorTextoUndoRedo\obj\Debug\net8.0-windows\ref\EditorTextoUndoRedo.dll
